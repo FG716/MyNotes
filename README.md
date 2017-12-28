@@ -1,6 +1,6 @@
 # MyNotes
 
-#Sprig Boot
+# Sprig Boot
 
 [Spring Boot 自定义属性使用](https://github.com/FG716/MyNotes/blob/master/notes/Spring%20Boot%20%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%9E%E6%80%A7%E4%BD%BF%E7%94%A8.md)
 
