@@ -1,3 +1,6 @@
+[back](https://github.com/FG716/MyNotes)
+---
+
 [原文](http://zetcode.com/articles/springbootbean/)
 
 ##Spring @Bean注解使用
