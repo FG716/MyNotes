@@ -12,4 +12,4 @@ import org.springframework.beans.factory.annotation.Value;
 private String appName
 ```
 
-发现一个问题，@Value注解的属性不能在构造器中调用！！！否则会出错！！！
+发现一个问题，@Value注解的属性不能在构造器中调用！！！否则会出错！！！(这是因为@Value不能用于 `static` 的变量)
