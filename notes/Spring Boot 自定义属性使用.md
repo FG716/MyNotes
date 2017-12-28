@@ -11,3 +11,5 @@ import org.springframework.beans.factory.annotation.Value;
 @Value("${app.name}") 
 private String appName
 ```
+
+发现一个问题，@Value注解的属性不能在构造器中调用！！！否则会出错！！！
