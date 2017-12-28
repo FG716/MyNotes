@@ -1,4 +1,4 @@
-[back](https://github.com/FG716/MyNotes/blob/master/README.md)
+[back](https://github.com/FG716/MyNotes)
 ---
 application.properties
 
