@@ -1,3 +1,5 @@
+![韦氏英标](https://github.com/FG716/MyNotes/blob/master/notes/images/68vflz7wqxtotj4i.jpg?raw=true)
+
 | Word | Part of speech | Phonetic symbol | Mean |
 |-|-|-|-|
 | pioneer | *verb* | \ˌpī-ə-ˈnir\ | 首创 |
