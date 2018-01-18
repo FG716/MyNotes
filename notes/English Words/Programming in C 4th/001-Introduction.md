@@ -1,4 +1,4 @@
-![韦氏英标](https://github.com/FG716/MyNotes/blob/master/notes/images/68vflz7wqxtotj4i.jpg?raw=true)
+![韦氏英标](https://raw.githubusercontent.com/FG716/MyNotes/master/notes/images/68vflz7wqxtotj4i.jpg)
 
 | Word | Part of speech | Phonetic symbol | Mean |
 |-|-|-|-|
